@@ -11,3 +11,5 @@ Lista de comandos básicos do Git
 - git revert: Reverte alguns commits já existentes
 - git resert: Redefine o HEAD atual para a condição determinada
 - git show: Exiba os vários tipos de objetos
+
+OBS: Curso básico 
